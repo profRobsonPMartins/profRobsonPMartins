@@ -27,7 +27,7 @@ Atualmente, estou lecionando no curso técnico de Informática para Internet no 
 
 ## NOSSA ESTATISTICA A PARTIR DO 4ºBIMESTRE
 
-[![Estatísticas Gerais](https://github-readme-stats.vercel.app/api?username=profRobsonPMartins&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=blue-green&title_color=ffD700&icon_color=ffD700&text_color=ffD700&bg_color=000000)](https://github.com/profRobsonPMartins)
+[![Estatísticas Gerais](https://github-readme-stats.vercel.app/api?username=profRobsonPMartins&show_icons=true&theme=vision-friendly-dark)](https://github.com/profRobsonPMartins)
 
 
 
