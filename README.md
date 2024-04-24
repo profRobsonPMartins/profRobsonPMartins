@@ -1,7 +1,6 @@
 # Olá, sou o Robson Pereira Martins! 👋
 
-Bem-vindo ao meu perfil do GitHub! Aqui você encontrará recursos, projetos e informações relacionadas ao curso técnico de Informática para Internet que ministro na Escola Estadual Profª 
-**Yollanda Araujo Silva Paiva, para a turma do 2ºB em 2023.**
+Bem-vindo ao meu perfil do GitHub! Aqui você encontrará recursos, projetos e informações relacionadas ao curso técnico de Informática para Internet / Desenvolvimento de Sistemas.
 
 # Meu Perfil GitHub
 
