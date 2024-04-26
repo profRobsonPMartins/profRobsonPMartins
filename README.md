@@ -24,7 +24,7 @@ Atualmente, estou lecionando no curso técnico de Informática para Internet no 
 - Teoria e prática
 - Testes de aplicações
 
-## NOSSA ESTATISTICA A PARTIR DO 4ºBIMESTRE
+## ESTATISTICA 
 
 [![Estatísticas Gerais](https://github-readme-stats.vercel.app/api?username=profRobsonPMartins&show_icons=true&theme=vision-friendly-dark)](https://github.com/profRobsonPMartins)
 
